@@ -1,6 +1,6 @@
 
 export const refs = {
-  form: document.querySelector(".query-form"),
+  form: document.querySelector(".form"),
   input: document.querySelector(".query-input"), 
   gallery: document.querySelector(".gallery"),
   loader: document.querySelector(".loader"),

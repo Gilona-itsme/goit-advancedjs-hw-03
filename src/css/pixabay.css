@@ -7,14 +7,14 @@
   align-items: center;
 }
 
-.query-form {
+.form {
   display: flex;
   flex-direction: row;
   justify-content: center;
   gap: 16px;
 }
 
-.query-form label {
+.form label {
   width: 272px;
   height: 40px;
 }
